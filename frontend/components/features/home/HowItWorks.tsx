@@ -30,7 +30,7 @@ const steps = [
 
 export default function HowItWorks() {
   return (
-    <section className="w-full py-20" style={{ backgroundColor: "#FFFBEB" }}>
+    <section id="how-it-works" className="w-full py-20" style={{ backgroundColor: "#FFFBEB" }}>
       <div className="max-w-5xl mx-auto px-6 md:px-12">
         {/* Header */}
         <div className="text-center mb-16">

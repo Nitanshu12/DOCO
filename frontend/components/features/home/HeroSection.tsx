@@ -5,7 +5,7 @@ export default function HeroSection() {
   return (
     <section
       className="w-full"
-      style={{ backgroundColor: "#FFFBEB" }}
+      style={{ backgroundColor: "#fffbebff" }}
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-16 py-16 md:py-24 flex flex-col md:flex-row items-center gap-10">
         {/* Left Content */}

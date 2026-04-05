@@ -42,7 +42,7 @@ const causes = [
 
 export default function CauseSection() {
   return (
-    <section className="w-full py-20" style={{ backgroundColor: "#FFFBEB" }}>
+    <section id="causes" className="w-full py-20" style={{ backgroundColor: "#FFFBEB" }}>
       <div className="max-w-6xl mx-auto px-6 md:px-12">
         {/* Header */}
         <div className="text-center mb-12">
